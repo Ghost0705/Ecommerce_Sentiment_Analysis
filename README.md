@@ -20,7 +20,7 @@ To do the sentiment analysis, the dataset used tokenizer and label encoder. Ther
 ### Deep learning model with Bidirectional LSTM layer
 A sequential model was created with 1 Embedding layer, 1 Bidirectional LSTM layer, 2 Dense layer:
 <p align="center">
-  <img src="https://github.com/Ghost0705/Ecommerce_Sentiment_Analysis_Bidirectional_LSTM/blob/main/image/architecture.png">
+  <img src=["https://github.com/Ghost0705/Ecommerce_Sentiment_Analysis_Bidirectional_LSTM/blob/main/image/architecture.png"](https://github.com/Ghost0705/Ecommerce_Sentiment_Analysis/blob/main/image/architecture.png?raw=true)>
 </p>
 
 Data were trained with 10 epoch:
